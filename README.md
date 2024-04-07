@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
    <a href="https://github.com/PabloBarcellos-0522">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloBarcellos-0522&theme=tokyonight&layout=compact" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloBarcellos-0522&theme=tokyonight&layout=compact"/>
    </a>
 </div>
 
