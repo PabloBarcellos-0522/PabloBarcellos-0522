@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#587BFFFF&size=40&center=true&vCenter=true&width=1000&duration=3000&lines=Hello!;My+name's+Pablo+Barcellos;Im+a+Java+Developer;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=587BFF&size=40&center=true&vCenter=true&width=1000&duration=3000&lines=Hello!;My+name%27s+Pablo+Barcellos;Im+a+Java+Developer;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
