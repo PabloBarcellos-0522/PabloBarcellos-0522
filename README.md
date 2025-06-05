@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="display: flex; justify-content: space-around">
    <a href="https://github.com/PabloBarcellos-0522">
-      <img height="135em"src="https://devicons.dev.br/icons?icon=Git,Github,Java,Spring,Maven,Hibernate,MySQL,Python,HTML,CSS,JavaScript&size=60&theme=dark&perline=4"/>
+      <img height="135em"src="https://api.devicons.dev.br/icon?icons=Git%2CGithub%2CJava%2CSpring%2CMaven%2CHibernate%2CMySQL%2CPython%2CHTML%2CCSS%2CJavaScript%2CDocker&size=60&theme=dark&perline=4"/>
       <img src="./space.png"/>
       <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloBarcellos-0522&theme=tokyonight&layout=compact"/>
    </a>
