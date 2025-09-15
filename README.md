@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=75&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=587BFF&size=25&center=true&vCenter=true&width=1000&duration=3000&lines=Hello!;My+name%27s+Pablo+Barcellos;Im+a+Java+Developer;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=25&pause=500&color=587BFF&center=true&vCenter=true&width=1000&separator=%3C&lines=Hello!%3CMy+name's+Pablo+Barcellos%3CWelcome+to+my+profile++;+%29%3CIm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
