@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=325FA9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Pablo+Soares;Desenvolvedor+Full+Stack+em+formação;Seja+bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=325FA9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Pablo+Barcellos;Desenvolvedor+Full+Stack+em+formação;Seja+bem-vindo+ao+meu+GitHub!+:%29)
 
 </div>
 
@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35" height="35" /> Sobre Mim
 </h2>
 
-Sou estudante de Ciência da Computação apaixonado por desenvolvimento de software, com foco em aplicações web full stack. Tenho experiência prática com React, Node.js e APIs REST, desenvolvendo projetos próprios e acadêmicos com organização em camadas, versionamento com Git e integração com banco de dados.
+Estudante de Ciência da Computação apaixonado por desenvolvimento de software, com foco em aplicações web full stack. Tenho experiência prática com React, Node.js e APIs REST, desenvolvendo projetos próprios e acadêmicos com organização em camadas, versionamento com Git e integração com banco de dados.
 
 Busco oportunidades de estágio onde eu possa aplicar meus conhecimentos em ambientes colaborativos, evoluir tecnicamente e contribuir com soluções bem estruturadas.
 
